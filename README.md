@@ -2,6 +2,7 @@
 
 
 <h2 style="color:#e600ac;">Website Link : </h2> <p>https://quiet-plateau-64131.herokuapp.com/ </p><br>
+<h2>Video Link : </h2> <p>https://drive.google.com/file/d/1yp69fert7dU6iVp4i5UQtThX84L-SmFn/view?usp=sharing</p>
 <h2>Document Link : </h2> <p>https://docs.google.com/document/d/1yqfFhyWNKGXjCBXUyZcKtm3mVFse3FBVAoNAF6v7LNE/edit?usp=sharing </p>
 <h2>Team members :</h2><br>
 1)SaiTeja<br>
